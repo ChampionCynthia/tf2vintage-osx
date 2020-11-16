@@ -749,7 +749,7 @@ public:
 	DECLARE_CLASS( CCPTimerLogic, CPointEntity );
 	DECLARE_DATADESC();
 
-	CCPTimerLogic::CCPTimerLogic();
+	CCPTimerLogic();
 
 	void			Spawn(void);
 	void			Think( void );
